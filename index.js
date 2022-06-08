@@ -126,7 +126,7 @@ ZimBotInc.ev.on('group-participants.update', async (anu) => {
                   ]
                   const buttonMessage = {
                     text: `*Welcome to* ${metadata.subject} @${num.split("@")[0]} *feel at home , here you are chilling with big boys/girls water to the people*`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'CAT BOT INC',
                     buttons: buttons,
                     headerType: 1
                   
@@ -140,7 +140,7 @@ ZimBotInc.ev.on('group-participants.update', async (anu) => {
                   ]
                   const buttonMessage = {
                     text: `*LEAVING* ${metadata.subject} @${num.split("@")[0]} *DONT COME BACK HERE OKAY!*`,
-                    footer: 'ZIM BOT INC',
+                    footer: 'CAT BOT INC',
                     buttons: buttons,
                     headerType: 1
                   
